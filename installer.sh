@@ -20,5 +20,5 @@ sudo mv lf /usr/bin
 mkdir -p ~/.config/lf
 mkdir -p ~/.config/nvim
 
-curl -o ~/.config/lf/lfrc https://github.com/minikxl/editors-quick-setup/main/lfrc
-curl -o ~/.config/nvim/init.vim https://github.com/minikxl/editors-quick-setup/main/nvimrc
+curl -o ~/.config/lf/lfrc https://raw.githubusercontent.com/minikxl/editors-quick-setup/main/lfrc
+curl -o ~/.config/nvim/init.vim https://raw.githubusercontent.com/minikxl/editors-quick-setup/main/nvimrc
